@@ -17,4 +17,6 @@ Initially, the pipeline maps somatic mutations from input MAF files onto relevan
 Furthermore, when applied to our specific cohort of input MAF files (especially for a large number of samples), Kin_PPI_MutFinder can also perform a de novo statistical analysis. This enables the user to directly identify and validate the presence of frequently mutated kinase genes, highly frequent mutations in specific cancer types within our dataset, enriched pathways in top kinase genes, and novel oncoPPIs with significantly mutated interface residues among the analysed input MAF files (B). The typical examples of output files produced by Kin_PPI_MutFinder is depicted in Figure C.
 
 
-
+<p align="center">
+  <img src="http://202.54.226.242/plap/static/Abstract_image.jpg"/>
+</p>
