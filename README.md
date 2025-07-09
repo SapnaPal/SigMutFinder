@@ -18,5 +18,5 @@ Furthermore, when applied to our specific cohort of input MAF files (especially 
 
 
 <p align="center">
-  <img src="http://202.54.226.242/plap/static/Abstract_image.jpg"/>
+  <img src="https://github.com/SapnaPal/SigMutFinder/blob/main/Abstract.jpg"/>
 </p>
