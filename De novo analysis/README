@@ -1,1 +1,4 @@
+Example code run:
 
+python test_cohort_ppi_analysis.py -maf_file_path TEST_FOLDER_MAF/
+python test_cohort_analysis.py -maf_file_path TEST_FOLDER_MAF/
