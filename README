@@ -1,0 +1,5 @@
+Example commnads:
+
+python3 pipeline_kinase.py -maf_file 00c2e7e1-5cac-4ff6-84ac-68d01caf2bd3.wxs.aliquot_ensemble_masked.maf
+
+python3 pipeline.py -maf_file 00c2e7e1-5cac-4ff6-84ac-68d01caf2bd3.wxs.aliquot_ensemble_masked.maf 
