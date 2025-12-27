@@ -1,0 +1,2 @@
+,UNIPROT_ISOFORM,Hugo_Symbol,Variant_Classification,Amino_acids,Protein_position,SIFT,cancer,ppi_name,pvalue,fdrvalue
+131,,RPL14,Missense_Mutation,V/F,9/215,deleterious(0),['LUAD'],['ESR1_RPL14'],['4.806791192235883e-09'],['0.0002698436439497']
